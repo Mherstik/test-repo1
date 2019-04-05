@@ -1,4 +1,6 @@
-# MArcus was here!
+#! /usr/bin/python3
+
+# Marcus was here!
 #
 #
 import ipaddress
